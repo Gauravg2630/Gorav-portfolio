@@ -105,7 +105,7 @@ Add your preferred license (e.g., MIT) and include a `LICENSE` file.
 
 - **Name**: Gorav Gumber
 - **Role**: Full Stack Developer · AI Integration Specialist
-- **Portfolio**: `[Add deployment URL when available]`
+- **Portfolio**: [`https://gorav-portfolio-k4v5t8g75-gauravg2630s-projects.vercel.app/`](https://gorav-portfolio-k4v5t8g75-gauravg2630s-projects.vercel.app/)
 - **GitHub**: [`https://github.com/Gaurav2630`](https://github.com/Gaurav2630)
 - **Email**: `[your-email@example.com]`
 
